@@ -10,5 +10,3 @@ def sumOfSeries(n):
 # Driver Function
 n = 5
 print(sumOfSeries(n))
-
-# Code Contributed by Mohit Gupta

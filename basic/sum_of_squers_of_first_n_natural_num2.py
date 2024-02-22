@@ -15,5 +15,3 @@ n = 4
 m = 5
 print(squaresum(n))
 print(squaresum(m))
-
-# This code id contributed by Nikita Tiwari.
